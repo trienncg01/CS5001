@@ -6,4 +6,4 @@
  - Trien Dau - Computer Science - <dautx@mail.uc.edu>
  - Haru Chu - Computer Science - <chuqc@mail.uc.edu>
  
- **Topic Area**: Web Game
+ **Topic Area**: Digital Voice Assistant
