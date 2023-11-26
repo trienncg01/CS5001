@@ -15,8 +15,8 @@
 4. **Project Tasks and Timeline:**
 [Task List](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/TaskList.md)
 [Milestone, Timeline, and Effort Matrix](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/Milestone%2C%20Timeline%2C%20and%20Effort%20Matrix%20-%20TrienDau%2C%20HaruChu.pdf)
-5. [ABET Concerns Essay](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/ConstraintsEssay_TrienDau_HaruChu.pdf)
-6. [PPT Slideshow](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/Assignment%208%20-%20Fall%20Design%20Presentation.pptx)
+5. [**ABET Concerns Essay**](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/ConstraintsEssay_TrienDau_HaruChu.pdf)
+6. [**PPT Slideshow**](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/Assignment%208%20-%20Fall%20Design%20Presentation.pptx)
 7. **Self-Assessment Essays:**
 [Trien Dau](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/Homework%20Essays/TrienDau_IndividualCapstoneAssessment.pdf)
 [Haru Chu](https://github.com/trienncg01/CS5001/blob/main/Fall%20Design%20Reports/Homework%20Essays/HaruChu_IndividualCapstoneAssessment.pdf)
