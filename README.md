@@ -28,4 +28,8 @@ This project envisions an interactive, and reponsive digital assistant with capa
 There have not been any expenses until this point.
 10. **Appendixes:**
 [Github Link](https://github.com/trienncg01/CS5001)
+11. **User Manual:**
+[Link](https://github.com/trienncg01/CS5001/blob/main/UserManual.md)
+12. **User Guide:**
+[Link](https://github.com/trienncg01/CS5001/blob/main/UserGuide.md)
 
