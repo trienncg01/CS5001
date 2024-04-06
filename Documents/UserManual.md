@@ -15,19 +15,11 @@ Our virtual voice assistant with chatGPT capabilities is designed to enhance you
 
 ## Installation Guide
 To install the application, follow these steps:
-1. Download the installation package from our github.
-2. Follow the on-screen instructions to install the application on your device.
-3. Input your chatGPT API key.
-4. Launch the application and grant necessary permissions when prompted.
+1. Download the installation package from our GitHub.
+2. Launch the application.
+3. Start interacting with ALICE by voice or text input.
 
-## Configuration Settings (TBD)
-Our application offers various configuration settings to customize your experience:
-- Language preferences
-- Voice selection
-- Notification settings
-- Privacy controls
-
-## Advanced Features (TBD)
+## Advanced Features
 Explore our advanced features to unlock the full potential of the virtual voice assistant:
 - Integration with third-party services
 - Personalization options for tailored responses
@@ -36,20 +28,18 @@ Explore our advanced features to unlock the full potential of the virtual voice 
 ## Troubleshooting
 Encountering issues? Refer to these troubleshooting tips:
 - Ensure your device has a stable internet connection.
+- Make sure that ALICE has access to your device's microphone and speaker.
 - Check for updates to the application.
 - Restart the application or your device if you encounter any errors.
 
 ## FAQ
-### Q: How do I enable/disable specific features?
-A: You can enable/disable specific features through the settings menu in the application.
-
 ### Q: Can I change the assistant's voice or language?
-A: TBD
+A: This feature is not yet implemented.
 
 ### Q: Is my data secure with the voice assistant?
 A: Yes, we prioritize user privacy and data security. All user data is encrypted and securely stored.
 
 ### Q: How do I report issues or provide feedback?
-A: You can report issues or provide feedback through the feedback section in the application or by contacting us.
+A: You can report issues or provide feedback by contacting us.
 
 For more information or assistance, refer to the user guide or contact us.
