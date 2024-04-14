@@ -1,7 +1,7 @@
 ***Table of Contents for Fall Team Design Reports***
 
-1. ***Team names and Project Abstract:***
- **Team Name**: BuckyBoys
+1. ***Team names and Project Abstract:***\
+ **Team Name**: BuckyBoys\
  **Team Members**:
     - Trien Dau - Computer Science - <dautx@mail.uc.edu>
     - Haru Chu - Computer Science - <chuqc@mail.uc.edu>
