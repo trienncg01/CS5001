@@ -20,11 +20,11 @@ In summary, ALICE embodies the convergence of cutting-edge technology, user-cent
 7. [**User Guide**](https://github.com/trienncg01/CS5001/blob/main/Documents/UserGuide.md)
 8. [**Spring Final PPT Presentation**](https://github.com/trienncg01/CS5001/blob/main/Documents/Spring%20Design%20Presentation.pptx)
 9. [**Final Expo Poster**](https://github.com/trienncg01/CS5001/blob/main/Documents/Poster.pdf)
-10. **Assessments**
-[Initial Self Assessments](https://github.com/trienncg01/CS5001/tree/main/Documents/Initial%20Self%20Assessments)
+10. **Assessments**\
+[Initial Self Assessments](https://github.com/trienncg01/CS5001/tree/main/Documents/Initial%20Self%20Assessments)\
 [Final Self Assessments](https://github.com/trienncg01/CS5001/blob/main/Documents/Final%20Self%20Assessments/TrienDau_Self_Assessment.pdf)
 11. [**Summary of Hours and Justification**](https://github.com/trienncg01/CS5001/tree/main/Documents/Summary%20of%20Hours%20and%20Justification)
 12. [**Summary of Expenses**](https://github.com/trienncg01/CS5001/blob/main/Documents/Summary_of_Expenses.pdf)
-13. **Appendixes:**
+13. **Appendixes:**\
 [Github Link](https://github.com/trienncg01/CS5001) - Please check Push/Pull History of Github for evidences of work effort.
 
