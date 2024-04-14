@@ -6,7 +6,7 @@
 ○ Trien Dau - Computer Science - <dautx@mail.uc.edu>\
 ○ Haru Chu - Computer Science - <chuqc@mail.uc.edu>
 
-2. ***Project Description & Abstract:***
+2. ***Project Description & Abstract:***\
 ALICE stands as a pinnacle of innovation in the realm of Digital AI Voice Assistants, empowered by the formidable ChatGPT API and crafted entirely in Python. Designed to seamlessly blend cutting-edge technology with user-centric functionality, ALICE represents a significant leap forward in the evolution of conversational AI. With its robust foundation in Python, ALICE embodies versatility and efficiency, leveraging the language's extensive libraries and modular architecture to deliver a fluid and intuitive user experience.
 At the core of ALICE's capabilities lies the unparalleled prowess of the ChatGPT API, enabling it to comprehend and respond to a vast array of queries with remarkable accuracy and depth. From everyday inquiries to intricate factual questions, ALICE stands ready to provide timely and relevant answers, enriching user interactions and fostering deeper engagement. By harnessing the power of natural language processing and generation, ALICE transcends mere functionality to become a trusted companion in navigating the complexities of the digital landscape.
 Built upon Python's solid foundation, ALICE embodies adaptability and scalability, allowing for seamless integration of new features and enhancements. Python's modular design enables developers to extend ALICE's functionality, tailoring it to meet the unique needs of diverse user communities. While ALICE may not interact with third-party software, its self-contained architecture ensures data security and privacy, providing users with peace of mind in their interactions.
